@@ -25,3 +25,4 @@ Luno is a modern AI-powered chatbot mobile application built with **Flutter** an
 git clone https://github.com/your-username/luno-chatbot.git
 cd luno-chatbot
 
+![App Screenshot](./Screenshot 2025-12-05 at 20.44.24)
