@@ -17,7 +17,7 @@ Luno is a modern AI-powered chatbot mobile application built with **Flutter** an
 - **AI Model:** LLaMA (via API)
 - **HTTP Client:** Dio / http
 
-![App Screenshot](Screenshot 2025-12-05 at 20.44.24)
+![App Screenshot](Screenshot%202025-12-05%20at%2020.44.24.png)
 
 ## 📦 Installation
 
